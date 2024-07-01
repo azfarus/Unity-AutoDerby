@@ -1,0 +1,66 @@
+{
+    "Soccer Bot": {
+        "checkpoints": [
+            {
+                "steps": 501872,
+                "file_path": "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-501872.onnx",
+                "reward": null,
+                "creation_time": 1719646152.3831854,
+                "auxillary_file_paths": [
+                    "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-501872.pt"
+                ]
+            },
+            {
+                "steps": 503872,
+                "file_path": "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-503872.onnx",
+                "reward": null,
+                "creation_time": 1719646152.6544325,
+                "auxillary_file_paths": [
+                    "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-503872.pt"
+                ]
+            },
+            {
+                "steps": 505872,
+                "file_path": "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-505872.onnx",
+                "reward": null,
+                "creation_time": 1719646152.9053586,
+                "auxillary_file_paths": [
+                    "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-505872.pt"
+                ]
+            },
+            {
+                "steps": 507872,
+                "file_path": "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-507872.onnx",
+                "reward": null,
+                "creation_time": 1719646153.1625924,
+                "auxillary_file_paths": [
+                    "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-507872.pt"
+                ]
+            },
+            {
+                "steps": 508272,
+                "file_path": "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-508272.onnx",
+                "reward": null,
+                "creation_time": 1719646153.3357508,
+                "auxillary_file_paths": [
+                    "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-508272.pt"
+                ]
+            }
+        ],
+        "elo": 1201.7691426437163,
+        "final_checkpoint": {
+            "steps": 508272,
+            "file_path": "mlagent_results\\sac_final_2\\Soccer Bot.onnx",
+            "reward": null,
+            "creation_time": 1719646153.3357508,
+            "auxillary_file_paths": [
+                "mlagent_results\\sac_final_2\\Soccer Bot\\Soccer Bot-508272.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

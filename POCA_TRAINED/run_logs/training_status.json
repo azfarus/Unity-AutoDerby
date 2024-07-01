@@ -1,0 +1,66 @@
+{
+    "Soccer Bot": {
+        "checkpoints": [
+            {
+                "steps": 89499352,
+                "file_path": "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-89499352.onnx",
+                "reward": 0.07659999653697014,
+                "creation_time": 1719723266.8091872,
+                "auxillary_file_paths": [
+                    "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-89499352.pt"
+                ]
+            },
+            {
+                "steps": 89999230,
+                "file_path": "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-89999230.onnx",
+                "reward": null,
+                "creation_time": 1719723860.9220536,
+                "auxillary_file_paths": [
+                    "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-89999230.pt"
+                ]
+            },
+            {
+                "steps": 90499264,
+                "file_path": "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-90499264.onnx",
+                "reward": 0.05889999645296484,
+                "creation_time": 1719724432.65293,
+                "auxillary_file_paths": [
+                    "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-90499264.pt"
+                ]
+            },
+            {
+                "steps": 90999884,
+                "file_path": "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-90999884.onnx",
+                "reward": 0.14979998853959842,
+                "creation_time": 1719725012.7511904,
+                "auxillary_file_paths": [
+                    "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-90999884.pt"
+                ]
+            },
+            {
+                "steps": 91152308,
+                "file_path": "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-91152308.onnx",
+                "reward": 0.035054544404953376,
+                "creation_time": 1719725194.5727167,
+                "auxillary_file_paths": [
+                    "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-91152308.pt"
+                ]
+            }
+        ],
+        "elo": 2306.6974272783673,
+        "final_checkpoint": {
+            "steps": 91152308,
+            "file_path": "Assets\\results\\bigfield\\Soccer Bot.onnx",
+            "reward": 0.035054544404953376,
+            "creation_time": 1719725194.5727167,
+            "auxillary_file_paths": [
+                "Assets\\results\\bigfield\\Soccer Bot\\Soccer Bot-91152308.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.2.1+cu121"
+    }
+}
